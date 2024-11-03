@@ -1,2 +1,3 @@
 Change file first time
-Feature change before rebase
+Feature change before rebase1
+Feature change before rebase2
